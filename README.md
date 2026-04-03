@@ -2,7 +2,7 @@
 Tracking progress of learning AI
 
 ## Jan - Mar (Term Time): 
-### 1. Taking Weekly ML Course from Oxford CS Department (2h/week, with 1h teaching and 1h practical)
+### 1. Taking ML Course from CS Department (2h/week, with 1h teaching and 1h practical)
 - Monday 26nd Jan: Linear Regression
 - Monday 02th Feb: Logistic Regression
 - Monday 09th Feb: Neural Networks
