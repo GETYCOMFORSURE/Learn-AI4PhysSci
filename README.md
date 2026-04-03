@@ -17,6 +17,6 @@ Tracking progress of learning AI
 ## Mar (Easter Vacation): 
 ### 1. Probability & Statistics Courses
 - [Probability bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
-- [Statistics bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx): not finished yet
+- [Statistics bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx): not finished yet, 5-7 days more needed
 ### 2. Exploratory project: LLM-guided evolutionary ansatz search for VQE
 https://github.com/GETYCOMFORSURE/avo-quantum-trial
